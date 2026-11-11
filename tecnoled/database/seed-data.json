@@ -1,0 +1,286 @@
+{
+  "categorias": {
+    "paineis": "Painéis de LED",
+    "senha": "Painéis de senha",
+    "cronometros": "Cronômetros e placares",
+    "garcom": "Chama Garçom",
+    "enfermaria": "Chamada de enfermaria",
+    "neon": "LED Neon",
+    "custom": "Personalizados"
+  },
+  "produtos": [
+    {
+      "slug": "paineis-led",
+      "categoria": "paineis",
+      "nome": "Painéis eletrônicos de LED",
+      "descricao": "Soluções para comunicação visual e divulgação de informações em ambientes comerciais e institucionais.",
+      "vantagens": [
+        "Informações visíveis à distância",
+        "Display de LED para uso interno ou conforme o projeto",
+        "Solução avaliada conforme a necessidade"
+      ],
+      "aplicacoes": [
+        "Comércio",
+        "Ambientes institucionais"
+      ],
+      "fotos_descricao": [],
+      "palavras_chave": "display letreiro aviso mensagem led painel eletronico",
+      "imagem": null
+    },
+    {
+      "slug": "totem-praca",
+      "categoria": "paineis",
+      "nome": "Totem de Praça em LED",
+      "descricao": "Equipamento desenvolvido para modernizar a comunicação visual em espaços públicos, integrando publicidade impressa e tecnologia digital em uma única estrutura.\n\nÉ uma solução que combina visibilidade, tecnologia e versatilidade, permitindo a divulgação de informações e conteúdos publicitários de forma dinâmica.",
+      "vantagens": [
+        "Estrutura metálica com suporte vertical",
+        "Área para banner personalizado",
+        "Painel eletrônico de LED para exibição de mensagens, horários e informativos",
+        "Dimensões: 4 m × 1,20 m (comprimento total)"
+      ],
+      "aplicacoes": [
+        "Praças",
+        "Parques",
+        "Áreas de lazer",
+        "Espaços públicos"
+      ],
+      "fotos_descricao": [
+        "Totem com banner personalizado e painel de LED com a data",
+        "Área para a marca do anunciante acima do painel de LED"
+      ],
+      "palavras_chave": "totem praca parque publicidade banner outdoor midia exterior painel led data hora espaco publico comunicacao visual",
+      "imagem": "images/img-78.webp"
+    },
+    {
+      "slug": "paineis-senha",
+      "categoria": "senha",
+      "nome": "Painéis de senha",
+      "descricao": "Organize o atendimento e proporcione mais agilidade e eficiência na gestão de filas com os Painéis de Senha Tecnoled!\n\nDesenvolvidos para facilitar a chamada e a identificação de clientes, os painéis têm displays de LED com dígitos de 4 polegadas, que garantem excelente visibilidade para clientes e atendentes. Todos têm alimentação 127/220V e sistema de fixação na parte traseira, o que facilita a instalação. Estão disponíveis em três modelos:\n\nPreferencial: identifica a senha por uma letra (P/C) e três dígitos numéricos, ajudando a priorizar atendimentos. Acompanha um acionador de chamada e outro de ajuste.\n\nSequencial: três displays de LED exibem senhas de 000 a 999. Acompanha um acionador de ajuste e outro de chamada das senhas.\n\nAleatória: o teclado digitador sem fio permite inserir diretamente a numeração desejada, sem cabeamento entre o digitador e o painel. Ideal para estabelecimentos com múltiplos guichês ou diferentes rotinas de atendimento. Acompanha teclado sem fio e fonte 12V – 2A.\n\nUma solução eficiente para supermercados, clínicas, hospitais, órgãos públicos e estabelecimentos comerciais que trabalham com atendimento por senhas.",
+      "vantagens": [
+        "Organiza a ordem de atendimento",
+        "Números grandes, fáceis de ler à distância",
+        "Modelos com controle remoto ou com teclado de chamada"
+      ],
+      "aplicacoes": [
+        "Supermercados",
+        "Açougues",
+        "Padarias",
+        "Lotéricas",
+        "Lojas"
+      ],
+      "fotos_descricao": [
+        "Display de LED com a palavra SENHA",
+        "Modelo com controle remoto e modelo com teclado de chamada",
+        "Suporte de fixação no modelo fotografado"
+      ],
+      "palavras_chave": "senha fila ficha chamada atendimento controle remoto teclado sequencial aleatoria supermercado acougue padaria loterica",
+      "imagem": "images/img-02.webp"
+    },
+    {
+      "slug": "cronometros",
+      "categoria": "cronometros",
+      "nome": "Cronômetros digitais",
+      "descricao": "Equipamentos para controle de tempo em aplicações esportivas, comerciais e profissionais, conforme o modelo.",
+      "vantagens": [
+        "Contagem de tempo em display de LED",
+        "Boa leitura à distância",
+        "Para uso esportivo, comercial ou profissional, conforme o modelo"
+      ],
+      "aplicacoes": [
+        "Esporte",
+        "Comércio",
+        "Uso profissional"
+      ],
+      "fotos_descricao": [],
+      "palavras_chave": "relogio tempo timer contagem hora",
+      "imagem": "images/img-68.webp"
+    },
+    {
+      "slug": "placares",
+      "categoria": "cronometros",
+      "nome": "Placares eletrônicos esportivos",
+      "descricao": "Transforme a experiência das competições esportivas com o Placar Eletrônico Full Tecnoled!\n\nDesenvolvido para oferecer controle completo das partidas, o equipamento apresenta cronômetro regressivo e progressivo, pontuação de 000 a 999, indicação de período de 1 a 9 e controle de faltas ou sets de 0 a 99.\n\nSeus dois painéis de mensagem, identificados como LOCAL e VISITANTE, permitem uma visualização clara das informações e das equipes durante os jogos.\n\nO sistema conta com comando do placar por rádio frequência (RF), sem fio, e controle dos painéis de mensagem por Wi-Fi, através de aplicativo no celular, proporcionando praticidade e flexibilidade na operação.\n\nSua estrutura em alumínio e PS, com frontal em acrílico translúcido fumê, oferece resistência e excelente apresentação.\n\nCom alimentação autovolt (127/220V) e suporte de fixação incluso, é ideal para clubes, ginásios, quadras esportivas e instalações do setor público.",
+      "vantagens": [
+        "Cronômetro, pontos, faltas e período em um só painel",
+        "Fácil visualização por atletas e público",
+        "Nomes e brasões das equipes, conforme o projeto"
+      ],
+      "aplicacoes": [
+        "Quadras",
+        "Clubes",
+        "Ginásios",
+        "Competições"
+      ],
+      "fotos_descricao": [
+        "Cronômetro, placar das equipes (Local e Visitantes), faltas e período",
+        "Exemplos fotografados com brasões e logotipos de equipes personalizados"
+      ],
+      "palavras_chave": "placar poliesportivo basquete futsal volei quadra ginasio clube jogo competicao esporte cronometro",
+      "imagem": "images/img-17.webp"
+    },
+    {
+      "slug": "painel-24-14",
+      "categoria": "cronometros",
+      "nome": "Painel eletrônico 24/14 segundos para basquete",
+      "descricao": "Garanta mais precisão, controle e profissionalismo nas partidas de basquete com o Painel Eletrônico 24/14 Segundos Tecnoled!\n\nDesenvolvido para acompanhar o tempo de posse de bola, o equipamento possui dois indicadores com contagem de 24 e 14 segundos, proporcionando excelente visibilidade para atletas, árbitros e público.\n\nConta também com campainha tipo sirene automática, que é acionada ao zerar o cronômetro, facilitando o acompanhamento das jogadas e o controle do tempo durante as partidas.\n\nO painel possui comando por teclado sem fio via rádio frequência (RF), oferecendo praticidade e liberdade na operação.\n\nSua proteção frontal em acrílico fumê translúcido proporciona acabamento e proteção ao equipamento. Também permite personalização com adesivos, como brasões e identificações, conforme a necessidade do cliente.\n\nÉ ideal para quadras de basquete, clubes, ginásios e instalações esportivas do setor público.",
+      "vantagens": [
+        "Contagem de 24 e 14 segundos em dois indicadores",
+        "Sirene automática ao zerar o cronômetro",
+        "Comando por teclado sem fio (rádio frequência)"
+      ],
+      "aplicacoes": [
+        "Quadras de basquete",
+        "Clubes",
+        "Ginásios",
+        "Escolas"
+      ],
+      "fotos_descricao": [],
+      "palavras_chave": "basquete 24 14 segundos posse de bola sirene quadra ginasio clube escola cronometro",
+      "imagem": null
+    },
+    {
+      "slug": "chama-garcom",
+      "categoria": "garcom",
+      "nome": "Sistema Chama Garçom",
+      "descricao": "Proporcione mais agilidade, organização e eficiência no atendimento com o Painel Chama Garçom Tecnoled!\n\nDesenvolvido para facilitar a comunicação entre clientes e equipe de atendimento, o equipamento permite visualizar até três chamadas de mesas simultaneamente, contando com um sistema de memória que mantém as chamadas organizadas em uma fila.\n\nCom seis dígitos e displays de LED de 4 polegadas, oferece excelente visibilidade, facilitando a identificação das mesas e tornando o atendimento mais prático.\n\nIdeal para restaurantes, bares e praças de alimentação, o painel ajuda a reduzir o tempo de espera, melhorar a comunicação entre clientes e atendentes e organizar o fluxo de chamadas, evitando a necessidade de gritos ou acenos.\n\nCom alimentação 127/220V e sistema de fixação na parte traseira para instalação em parede, é uma solução prática para profissionalizar o atendimento e proporcionar uma experiência melhor aos clientes.",
+      "vantagens": [
+        "Mostra no painel a mesa que fez a chamada",
+        "Agiliza a comunicação entre cliente e equipe",
+        "Painel de LED de fácil leitura"
+      ],
+      "aplicacoes": [
+        "Restaurantes",
+        "Lanchonetes",
+        "Pastelarias",
+        "Bares"
+      ],
+      "fotos_descricao": [
+        "Painel de LED com números de mesa e indicador de fila (FILA)",
+        "Painel com ligação por cabo, no modelo fotografado"
+      ],
+      "palavras_chave": "chama garcom garçom mesa chamada restaurante lanchonete pastelaria bar atendimento garconete",
+      "imagem": "images/img-32.webp"
+    },
+    {
+      "slug": "painel-enfermaria",
+      "categoria": "enfermaria",
+      "nome": "Painel de enfermaria com acionador",
+      "descricao": "Painel de LED que indica quarto e leito, com acionador de chamada de um botão.",
+      "vantagens": [
+        "Mostra no painel o quarto e o leito da chamada",
+        "Acionador simples, com botão vermelho bem visível",
+        "Painel de LED visível à distância"
+      ],
+      "aplicacoes": [
+        "Enfermarias",
+        "Clínicas e ambientes de saúde"
+      ],
+      "fotos_descricao": [
+        "Display de LED com as legendas QUARTO, LEITO e FILA",
+        "Acionador preto com botão vermelho e a indicação “Para chamar aperte”, com furo para fixação"
+      ],
+      "palavras_chave": "enfermaria hospital clinica quarto leito paciente enfermagem acionador botao chamada saude",
+      "imagem": "images/img-44.webp"
+    },
+    {
+      "slug": "galheteiro",
+      "categoria": "garcom",
+      "nome": "Chama Garçom com Galheteiro",
+      "descricao": "Equipamento multifuncional para mesas de estabelecimentos gastronômicos, desenvolvido para integrar organização e praticidade ao atendimento.\n\nPossui compartimentos para guardanapos e sachês de condimentos, além de botão para solicitação de atendimento, com identificação numérica da mesa e área personalizada com a marca do estabelecimento.\n\nIntegra galheteiro, porta-guardanapos e sistema de chamada de garçom em um único equipamento, otimizando a organização e a experiência de atendimento.",
+      "vantagens": [
+        "Galheteiro, porta-guardanapos e chamada de garçom em um só equipamento",
+        "Botão para chamar o garçom",
+        "Identificação numérica da mesa",
+        "Área personalizada com a marca do estabelecimento"
+      ],
+      "aplicacoes": [
+        "Restaurantes",
+        "Bares",
+        "Lanchonetes",
+        "Cafeterias",
+        "Praças de alimentação"
+      ],
+      "fotos_descricao": [
+        "Estrutura organizadora na cor preta, com compartimento superior para guardanapos",
+        "Galheteiro com divisórias para sachês de condimentos",
+        "Botão vermelho para chamar o garçom, identificação da mesa e marca do estabelecimento"
+      ],
+      "palavras_chave": "galheteiro condimento tempero sache guardanapo azeite vinagre mesa garcom chamada botao porta-guardanapos cafeteria praca de alimentacao",
+      "imagem": "images/img-75.webp"
+    },
+    {
+      "slug": "porta-guardanapos",
+      "categoria": "garcom",
+      "nome": "Porta-guardanapos com acionador integrado",
+      "descricao": "Une a organização dos guardanapos e a praticidade de chamada em um só equipamento, conforme o modelo disponível.",
+      "vantagens": [
+        "Guardanapos organizados na mesa",
+        "Acionador de chamada integrado",
+        "Um só equipamento para dois usos"
+      ],
+      "aplicacoes": [
+        "Restaurantes",
+        "Lanchonetes",
+        "Pastelarias",
+        "Bares"
+      ],
+      "fotos_descricao": [],
+      "palavras_chave": "guardanapo mesa garcom chamada acionador",
+      "imagem": null
+    },
+    {
+      "slug": "identificador-mesa",
+      "categoria": "garcom",
+      "nome": "Identificadores de mesa com botão de chamada",
+      "descricao": "Equipamentos para identificar mesas e solicitar atendimento, conforme os recursos confirmados de cada produto.",
+      "vantagens": [
+        "Mesa identificada de forma clara",
+        "Botão para solicitar atendimento",
+        "Compatível com o sistema de chamada, conforme o modelo"
+      ],
+      "aplicacoes": [
+        "Estabelecimentos de alimentação"
+      ],
+      "fotos_descricao": [],
+      "palavras_chave": "mesa numero identificacao chamada botao garcom",
+      "imagem": null
+    },
+    {
+      "slug": "led-neon",
+      "categoria": "neon",
+      "nome": "Letreiros personalizados em LED Neon",
+      "descricao": "Comunicação visual personalizada para empresas, fachadas e ambientes comerciais, conforme a capacidade de fabricação.",
+      "vantagens": [
+        "Visual moderno que valoriza a marca",
+        "Feito sob medida para a identidade visual do cliente",
+        "Para fachadas e ambientes comerciais"
+      ],
+      "aplicacoes": [
+        "Fachadas",
+        "Ambientes comerciais"
+      ],
+      "fotos_descricao": [
+        "Exemplo fotografado: letreiro com arabescos e texto em neon amarelo sobre base transparente"
+      ],
+      "palavras_chave": "neon letreiro fachada logotipo marca placa luminoso personalizado",
+      "imagem": "images/img-71.webp"
+    },
+    {
+      "slug": "personalizadas",
+      "categoria": "custom",
+      "nome": "Soluções eletrônicas personalizadas",
+      "descricao": "Projetos desenvolvidos conforme a necessidade do cliente. Entre em contato para avaliar a viabilidade.",
+      "vantagens": [
+        "Projeto pensado para a sua necessidade",
+        "Viabilidade avaliada antes do orçamento",
+        "Atendimento direto com a equipe comercial"
+      ],
+      "aplicacoes": [
+        "Sob consulta"
+      ],
+      "fotos_descricao": [],
+      "palavras_chave": "projeto sob medida personalizado eletronico especial",
+      "imagem": null
+    }
+  ]
+}
