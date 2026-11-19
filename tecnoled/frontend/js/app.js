@@ -155,7 +155,7 @@ function wire(){const f=$("#f");if(!f)return;const v=i=>$("#"+i).value.trim();
   if(u)window.open(u,"_blank","noopener");
   saveQuote(body,u)}
  if(ME){const set=(i,x)=>{if(x&&!$("#"+i).value)$("#"+i).value=x};set("n",ME.nome);set("e",ME.empresa);set("t",ME.telefone?maskPhone(ME.telefone):"");set("em",ME.email);$("#acct").innerHTML=`Você está conectado como <strong>${esc(ME.nome)}</strong>. Esta solicitação ficará salva em <a href="/conta#orcamentos">Minha conta</a>.`}
- else $("#acct").innerHTML=`Já tem conta? <a href="/entrar?next=/">Entre</a> para acompanhar o andamento dos seus orçamentos, ou <a href="/cadastro">crie uma conta</a>.`}
+ else $("#acct").innerHTML=`Já tem conta? <a href="/pages/login.html?next=/">Entre</a> para acompanhar o andamento dos seus orçamentos, ou <a href="/cadastro">crie uma conta</a>.`}
 async function saveQuote(body,u){const st=$("#fs"),wl=u?` <a href="${u}" target="_blank" rel="noopener">Abrir o WhatsApp</a>`:"";
  st.textContent="Registrando sua solicitação…";
  try{const h={"Content-Type":"application/json"};if(ME&&CSRF)h["X-CSRF-Token"]=CSRF;
